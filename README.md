@@ -52,6 +52,23 @@ PythonとGUIアプリ開発の学習を目的として制作しました。
 - Python
 - Flet
 - JSON
+  
+  
+Windows用EXEはGitHub Releasesから配布予定です。
+
+Pythonをインストールしていない環境でも実行できます。
+
+
+
+v0.1では以下は未実装です。
+
+ウィンドウサイズの保存
+小さいウィンドウへの最適化
+トレーニング履歴の分析
+グラフ表示
+種目別の比較
+
+今後、記録したデータを利用した分析機能を追加する予定です
 
 ## Run from source
 
@@ -65,18 +82,5 @@ pip install -r requirements.txt
 python workout_app_v0.1.py
 Windows executable
 
-Windows用EXEはGitHub Releasesから配布予定です。
 
-Pythonをインストールしていない環境でも実行できます。
 
-Current limitations
-
-v0.1では以下は未実装です。
-
-ウィンドウサイズの保存
-小さいウィンドウへの最適化
-トレーニング履歴の分析
-グラフ表示
-種目別の比較
-
-今後、記録したデータを利用した分析機能を追加する予定です
