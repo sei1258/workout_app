@@ -1,1 +1,18 @@
+# Python
+__pycache__/
+*.pyc
 
+# 仮想環境
+.venv/
+venv/
+
+# Flet / PyInstallerの生成物
+build/
+dist/
+workout_dist/
+*.spec
+
+# OS / Editor
+.vscode/
+.DS_Store
+Thumbs.db
