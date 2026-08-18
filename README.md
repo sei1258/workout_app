@@ -75,10 +75,10 @@ Python環境にFletをインストールします。
 
 ```bash
 pip install -r requirements.txt
-
+```
 その後、アプリを実行します。
-
+```
 python workout_app_v0.1.py
-
+```
 
 
