@@ -59,8 +59,8 @@ Windows用EXEはGitHub Releasesから配布予定です。
 Pythonをインストールしていない環境でも実行できます。
 
 
-
-## v0.1では以下は未実装です。
+## Current limitations
+ v0.1では以下は未実装です。
 
 -ウィンドウサイズの保存
 -小さいウィンドウへの最適化
