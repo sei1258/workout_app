@@ -2,7 +2,7 @@
 
 
 筋力トレーニングとランニングの記録を保存・管理するために作成した、
-Python / Flet製のデスクトップアプリです。
+Python / flet製のデスクトップアプリです。
 
 PythonとGUIアプリ開発の学習を目的として制作しました。
 
@@ -56,7 +56,7 @@ PythonとGUIアプリ開発の学習を目的として制作しました。
 - JSON
   
   
-Windows用EXEはGitHub Releasesから配布予定です。
+Windows用EXEはGitHub Releasesから配布中です。
 
 Pythonをインストールしていない環境でも実行できます。
 
