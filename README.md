@@ -6,6 +6,8 @@ Python / Flet製のデスクトップアプリです。
 
 PythonとGUIアプリ開発の学習を目的として制作しました。
 
+<img width="858" height="461" alt="キャプチャ3" src="https://github.com/user-attachments/assets/bb4f7879-0ea7-41de-bb5d-42ba7a52cff3" />
+
 ## Features
 
 - 筋トレ（外部重量）の記録
